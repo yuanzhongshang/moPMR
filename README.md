@@ -1,7 +1,6 @@
 # moPMR
 
-moPMR(Probabilistic two sample mendelian randomization for multiple outcome traits),is an R package for efficient statistical inference of two-sample MR analysis. It can account for the correlated instruments and the horizontal pleiotropy, and can provide the
-accurate estimates of both causal effect and horizontal pleiotropy effect as well as the two corresponding p values.
+moPMR(Probabilistic two sample mendelian randomization for multiple outcome traits), is an R package for efficient statistical inference of two-sample MR analysis for multiple outcome analysis. It can account for the correlated instruments and the horizontal pleiotropy, and can provide the accurate estimates of both causal effect and horizontal pleiotropy effect as well as the two corresponding p values.
 
 # Installation
 It is easy to install the development version of PMR package using the 'devtools' package. The typical install time on a "normal" desktop computer is less than one minute.
@@ -31,7 +30,7 @@ One simple example to use the package can be found at https://github.com/yuanzho
 
 # Results reproduced 
 
-All results from all methods used in the PMR paper can be reproduced at https://github.com/yuanzhongshang/PMRreproduce
+All results from all methods used in the moPMR paper can be reproduced at https://github.com/yuanzhongshang/moPMRreproduce
 
 # Development
 This R package is developed by Zhongshang Yuan and Xiang Zhou.
